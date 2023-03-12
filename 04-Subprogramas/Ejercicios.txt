@@ -1,0 +1,100 @@
+1.Realizar una función que calcule la suma de dos números. En el algoritmo principal le pedire-
+mos al usuario los dos números para pasárselos a la función. Después la función calculará la
+suma y lo devolverá para imprimirlo en el algoritmo.
+
+2. Realizar una función que valide si un número es impar o no. Si es impar la función debe devol-
+ver un verdadero, si no es impar debe devolver falso. Nota: la función no debe tener mensajes
+que digan si es par o no, eso debe pasar en el Algoritmo.
+
+3. Crea una función EsMultiplo que reciba los dos números pasados por el usuario, validando
+que el primer número múltiplo del segundo y devuelva verdadero si el primer número es múlti-
+plo del segundo, sino es múltiplo que devuelva falso.
+
+4. Realizar un programa que pida al usuario una frase y una letra a buscar en esa frase. La fun-
+ción debe devolver la cantidad de veces que encontró la letra. 
+Nota: recordar el uso de la función Subcadena().
+
+5. Realizar una función que reciba un numero ingresado por el usuario y averigüe si el número es
+primo o no. Un número es primo cuando es divisible sólo por 1 y por sí mismo, por ejemplo: 2,
+3, 5, 7, 11, 13, 17, etc. 
+Nota: recordar el uso del MOD.
+
+6. Realizar una función que calcule y retorne la suma de todos los divisores del número n distin-
+tos de n. El valor de n debe ser ingresado por el usuario.
+
+7. Diseñar una función que reciba un numero en forma de cadena y lo devuelva como numero
+entero. El programa podrá recibir números de hasta 3 dígitos. Nota: no poner números con de-
+cimales ni letras. Ejemplo: ingresando “100”(carácter) debe convertirse en 100(entero).
+
+8. Crear una función llamada “Login”, que recibe un nombre de usuario y una contraseña y que
+devuelve Verdadero si el nombre de usuario es “usuario1” y si la contraseña es “asdasd”. Ade-
+más, la función calculara el número de intentos que se ha usado para loguearse, tenemos solo
+3 intentos, si nos quedamos sin intentos la función devolverá Falso.
+
+9. Realizar una función que calcule la suma de los dígitos de un número.
+Ejemplo: 25 = 2 + 5 = 7
+Nota: Para obtener el último número de un digito de 2 cifras o más debemos pensar en el
+resto de una división entre 10. Recordar el uso de la función Mod y Trunc.
+
+10. Realizar una función que reciba un numero ingresado por el usuario y averigüe si el número
+tiene todos sus dígitos impares (ejemplo: 333, 55, etc.). Para esto vamos a tener que separar el
+numero en partes (si es un numero de más de un digito) y ver si cada número es par o impar.
+Nota: recordar el uso de la función Mod y Trunc(). No podemos pasar el numero a cadena para
+realizar el ejercicio.
+
+11. Realizar una función que reciba un numero ingresado por el usuario y averigüe si el número es
+capicúa o no (Por ejemplo: 12321). Nota: recordar el uso del MOD y el Trunc. No podemos
+transformar el numero a cadena para realizar el ejercicio.
+
+12.Realizar un procedimiento que permita intercambiar el valor de dos variables de tipo entero.
+La variable A, debe terminar con el valor de la variable B.
+
+13. Crear un procedimiento que calcule la temperatura media de un día a partir de la temperatura
+máxima y mínima. Crear un programa principal, que, utilizando un procedimiento, vaya pi-
+diendo la temperatura máxima y mínima de n días y vaya mostrando la media de cada día. El
+programa pedirá el número de días que se van a introducir.
+
+14. Escribir un programa que procese una secuencia de caracteres ingresada por teclado y termi-
+nada en punto, y luego codifique la palabra o frase ingresada de la siguiente manera: cada vo-
+cal se reemplaza por el carácter que se indica en la tabla y el resto de los caracteres (inclu-
+yendo a las vocales acentuadas) se mantienen sin cambios.
+[a][e][i][o][u]
+[@][#][$][%][*]
+
+15. Crea un procedimiento “convertirEspaciado”, que reciba como argumento un texto y muestra
+una cadena con un espacio adicional tras cada letra.
+Por ejemplo, “Hola, tú” devolverá “H o l a , t ú “. Crea un programa principal donde se use
+dicho procedimiento.
+
+16. Realizar un subproceso que reciba una letra y muestre un mensaje si esa letra esta entre las
+letras “M” y “T”. Recordar que Pseint le da un valor numérico a cada letra a través del Código
+Ascii, lo que nos deja usar operadores relacionales con letras y cadenas.
+
+17. Crear un programa que dibuje una escalera de números, donde cada línea de números co-
+mience en uno y termine en el número de la línea. Solicitar la altura de la escalera al usuario al
+comenzar. Ejemplo: si se ingresa el número 3:
+1
+12
+123
+
+18. Diseñar un procedimiento que reciba una frase, y el programa remueva todas las vocales re-
+petidas. Al final el procedimiento mostrará la frase final.
+Por ejemplo:
+Entrada: “Habia una vez un barco”
+Salida: “Habi un vez n brco"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

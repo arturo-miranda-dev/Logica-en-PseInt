@@ -1,0 +1,70 @@
+1.Realizar un programa que rellene una matriz de 3x3 con 9 valores ingresados por el usuario y
+los muestre por pantalla.
+
+2. Escribir un programa que realice la búsqueda lineal de un número entero ingresado por el
+usuario en una matriz de 5x5, llena de números aleatorios y devuelva por pantalla las coorde-
+nadas donde se encuentra el valor, es decir en que fila y columna se encuentra. En caso de no
+encontrar el valor dentro de la matriz se debe mostrar un mensaje.
+
+3. Dada una matriz de orden n * m (donde n y m son valores ingresados por el usuario) realizar
+un subprograma que llene la matriz de numeros aleatorios. Despues, crearemos otro subpro-
+grama que calcule y muestre la suma de los elementos de la matriz. Mostrar la matriz y los re-
+sultados por pantalla.
+
+4. Rellenar en un subproceso una matriz cuadrada con números aleatorios salvo en la diagonal
+principal, la cual debe rellenarse con ceros. Una vez llena la matriz debe generar otro subpro-
+ceso para imprimir la matriz.
+
+5. Rellenar una matriz, de 3 x 3, con una palabra de 9 de longitud, pedida por el usuario, encon-
+trando la manera de que la frase se muestre de manera continua en la matriz.
+Por ejemplo, si tenemos la palabra habilidad, nuestra matriz se debería ver así:
+[H][A][B]
+[I][L][I]
+[D][A][D]
+Nota: recordar el uso de la función Subcadena().
+
+6. Una matriz mágica es una matriz cuadrada (tiene igual número de filas que de columnas) que
+tiene como propiedad especial que la suma de las filas, las columnas y las diagonales es igual.
+Por ejemplo:
+2 7 6
+9 5 1
+4 3 8
+En la matriz de ejemplo las sumas son siempre 15. Considere el problema de construir un algo-
+ritmo que compruebe si una matriz de datos enteros es mágica o no, y en caso de que sea
+mágica escribir la suma. Además, el programa deberá comprobar que los números introduci-
+dos son correctos, es decir, están entre el 1 y el 9. El usuario ingresa el tamaño de la matriz
+que no debe superar orden igual a 10.
+
+7.Realizar un programa que rellene de números aleatorios una matriz a través de un subpro-
+grama y generar otro subprograma que muestre por pantalla la matriz final.
+
+8. Crear una matriz de orden n * m (donde n y m son valores ingresados por el usuario), llenarla
+con números aleatorios entre 1 y 100 y mostrar su traspuesta.
+
+9. Realizar un programa que cree una matriz de 5x15 y deberemos llenar la matriz de unos y
+ceros. Llenando el marco o la delimitación externa de la matriz de unos y la parte interna de
+ceros. Por ejemplo, nuestro matriz final debería verse así:
+111111111111111
+100000000000001
+100000000000001
+100000000000001
+111111111111111
+
+10. Realizar un programa que calcule la multiplicación de dos matrices de enteros de 3x3. Inicia-
+lice las matrices para evitar el ingreso de datos por teclado.
+
+11. Crear una matriz que contenga 3 columnas y la cantidad filas que decida el usuario. Las dos
+primeras columnas contendrán valores enteros ingresados por el usuario y en la 3 columna se
+deberá almacenar el resultado de sumar el número de la primera y segunda columna. Mostrar
+la matriz de la siguiente forma:
+3+5=8
+4+3=7
+1+4=5
+
+12. Realizar un programa que permita visualizar el resultado del producto de una matriz de ente-
+ros de 3x3 por un vector de 3 elementos. Los valores de la matriz y el vector pueden iniciali-
+zarse evitando así el ingreso de datos por teclado.
+
+
+
+

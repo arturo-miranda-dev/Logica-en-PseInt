@@ -1,0 +1,52 @@
+1.Realizar un programa que rellene un vector con 5 valores ingresados por el usuario y los
+muestre por pantalla.
+
+2. Realizar un programa que lea 10 números reales por teclado, los almacene en un arreglo y
+muestre por pantalla la suma, resta y multiplicación de todos los números ingresados al arre-
+glo.
+
+3. Realizar un programa que rellene un vector de tamaño N, con valores ingresados por el usua-
+rio. A continuación, se debe buscar un elemento dentro del arreglo (el número a buscar tam-
+bién debe ser ingresado por el usuario). El programa debe indicar la posición donde se en-
+cuentra el valor. En caso de que el número se encuentre repetido dentro del arreglo se deben
+imprimir todas las posiciones donde se encuentra ese valor.
+Finalmente, en caso de que el número a buscar no está adentro del arreglo se debe mostrar
+un mensaje.
+
+4. Realizar un programa con el siguiente menú y le pregunte al usuario que quiere hacer hasta
+que ingrese la opción Salir:
+A. Llenar Vector A. Este vector es de tamaño N y se debe llenar de manera aleatoria
+usando la función Aleatorio(valorMin, valorMax) de PseInt.
+B. Llenar Vector B. Este vector también es de tamaño N y se llena de manera aleatoria.
+C. Llenar Vector C con la suma de los vectores A y B. La suma se debe realizar elemento
+a elemento. Ejemplo: C = A + B
+D. Llenar Vector C con la resta de los vectores B y A. La resta se debe realizar elemento a
+elemento. Ejemplo: C = B - A
+E. Mostrar. Esta opción debe permitir al usuario decidir qué vector quiere mostrar: Vector
+A, B, o C.
+F. Salir.
+NOTA: El rango de los números aleatorios para los Vectores será de [-100 a 100]. La longitud
+para todos los vectores debe ser la misma, por lo tanto, esa información sólo se solicitará una
+vez.
+
+5. Realizar un programa que rellene un vector de tamaño N, con valores ingresados por el usua-
+rio. A continuación, se deberá crear una función que reciba el vector y devuelva el valor más
+grande del vector.
+
+6.Realizar un programa que rellene dos vectores al mismo tiempo, con 5 valores aleatorios y los
+muestre por pantalla.
+
+7. Realizar un programa que rellene un vector de tamaño N, con valores ingresados por el
+usuario y muestre por pantalla el promedio de la suma de todos los valores ingresados.
+
+8. Crear dos vectores que tengan el mismo tamaño (el tamaño se pedirá por teclado) y
+almacenar en uno de ellos nombres de personas como cadenas. En el segundo vector se
+debe almacenar la longitud de cada uno de los nombres (para ello puedes usar la función
+Longitud() de PseInt). Mostrar por pantalla cada uno de los nombres junto con su longitud.
+
+9. Crear una función que devuelva la diferencia que hay entre el valor más chico de un arreglo y
+su valor más grande.
+
+10. Programe una función que calcule el producto de un arreglo de números enteros. Para esto
+imagine, por ejemplo, que para un vector V de tamaño 4, el producto de todos los valores es
+igual a (V[1]*V[2]*V[3]*V[4])
