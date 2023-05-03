@@ -1,4 +1,4 @@
-# Logica-en-PseInt  
+# Tramo 1: Introducción a la programación
 
 Practicando logica y algoritmos con pseudocodigo.  
 
